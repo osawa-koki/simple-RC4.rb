@@ -2,6 +2,8 @@
 
 🌿🌿🌿 RubyでRC4暗号を実装したものです。  
 
+![成果物](./docs/img/fruit.png)  
+
 ## 実行方法
 
 ```shell
